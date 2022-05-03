@@ -37,7 +37,8 @@
       "outputPath": ""
     },
     "disableUseStrict": false,
-    "minifyWXML": true
+    "minifyWXML": true,
+    "compileHotReLoad": true
   },
   "simulatorType": "wechat",
   "simulatorPluginLibVersion": {},
