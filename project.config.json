@@ -9,7 +9,6 @@
   "projectname": "ts-sass-demo",
   "setting": {
     "useCompilerPlugins": [
-      "typescript",
       "sass"
     ],
     "urlCheck": true,
